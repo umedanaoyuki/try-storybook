@@ -1,5 +1,5 @@
 import Circle from "./Circle";
-import {Meta} from "@storybook/react";
+import {Meta, StoryObj} from "@storybook/react";
 
 const meta: Meta<typeof Circle> = {
     component: Circle,
