@@ -1,4 +1,4 @@
-import Circle from "@/stories/Circle";
+import Circle from "./Circle";
 import {Meta} from "@storybook/react";
 
 const meta: Meta<typeof Circle> = {
